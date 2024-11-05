@@ -1,0 +1,38 @@
+[
+  {
+      "id": 9,
+      "category": "All Products"
+  },
+  {
+      "id": 1,
+      "category": "Smartphones"
+  },
+  {
+      "id": 2,
+      "category": "Audio"
+  },
+  {
+      "id": 3,
+      "category": "Laptops"
+  },
+  {
+      "id": 4,
+      "category": "Smart Home"
+  },
+  {
+      "id": 5,
+      "category": "Wearables"
+  },
+  {
+      "id": 6,
+      "category": "Cameras"
+  },
+  {
+      "id": 7,
+      "category": "Tablets"
+  },
+  {
+      "id": 8,
+      "category": "Home Appliances"
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/BLJjZbG/download-9.jpg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 2,
+    "product_title": "Samsung Galaxy Z Fold 5",
+    "product_image": "https://i.ibb.co.com/C7BV0wh/samsung-fold5-icyblue-1.png",
+    "category": "Smartphones",
+    "price": 1799,
+    "description": "Unfold the future with the Samsung Galaxy Z Fold 5.",
+    "specification": [
+      "7.6-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2 chip",
+      "Triple-camera system (50MP Main, 12MP Ultra Wide, 10MP Telephoto)",
+      "Foldable design",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/Fb9N0by/download.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Capture moments with unmatched clarity using the Google Pixel 8 Pro.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Google Tensor G3 chip",
+      "Triple-camera system (50MP Main, 48MP Telephoto, 12MP Ultra Wide)",
+      "Advanced AI features",
+      "Up to 512GB storage"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": 4,
+    "product_title": "Sony WH-1000XM5 Headphones",
+    "product_image": "https://i.ibb.co.com/B3j4jmP/cc38e6030d9f0f8a993e5f406eecb281.jpg",
+    "category": "Audio",
+    "price": 399,
+    "description": "Immerse yourself in pure sound with Sony's WH-1000XM5 headphones.",
+    "specification": [
+      "Industry-leading noise cancellation",
+      "Up to 30 hours of battery life",
+      "Touch controls",
+      "Hi-Res audio compatibility",
+      "Lightweight and comfortable design"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 5,
+    "product_title": "Dell XPS 15 Laptop",
+    "product_image": "https://i.ibb.co.com/vZfcHNP/download-1.jpg",
+    "category": "Laptops",
+    "price": 2199,
+    "description": "Power and elegance combined in the Dell XPS 15 laptop.",
+    "specification": [
+      "15.6-inch 4K Ultra HD display",
+      "12th Gen Intel Core i9 processor",
+      "NVIDIA GeForce RTX 3050 Ti",
+      "32GB RAM, 1TB SSD",
+      "Ultra-thin bezel design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 6,
+    "product_title": "Amazon Echo Dot (5th Gen)",
+    "product_image": "https://i.ibb.co.com/1dwVVxz/Amazon-Echo-Dot-5th-Gen-2022-with-Clock-Glacier-White-4714.jpg",
+    "category": "Smart Home",
+    "price": 49,
+    "description": "Your smart assistant for home automation and entertainment.",
+    "specification": [
+      "Compact and improved sound",
+      "Alexa voice control",
+      "Built-in smart home hub",
+      "Far-field voice recognition",
+      "Multiple color options"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 7,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/4TGrQT3/Apple-Watch-Series-9-2-8332.jpg",
+    "category": "Wearables",
+    "price": 399,
+    "description": "Stay connected and monitor your health with Apple Watch Series 9.",
+    "specification": [
+      "Always-On Retina display",
+      "S9 chip",
+      "Advanced health monitoring",
+      "Water-resistant up to 50 meters",
+      "Customizable watch faces"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 8,
+    "product_title": "GoPro Hero 12 Black",
+    "product_image": "https://i.ibb.co.com/Qrzk2hf/download-2.jpg",
+    "category": "Cameras",
+    "price": 499,
+    "description": "Capture every adventure with the rugged GoPro Hero 12 Black.",
+    "specification": [
+      "5.3K60 video, 27MP photos",
+      "HyperSmooth 5.0 stabilization",
+      "Waterproof up to 33ft",
+      "Front and rear touch screens",
+      "Voice control"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "Microsoft Surface Pro 9",
+    "product_image": "https://i.ibb.co.com/8zpVF1j/download-3.jpg",
+    "category": "Tablets",
+    "price": 1299,
+    "description": "A versatile tablet that transforms into a laptop with Surface Pro 9.",
+    "specification": [
+      "13-inch PixelSense Flow display",
+      "Intel Core i7 processor",
+      "16GB RAM, 512GB SSD",
+      "Windows 11",
+      "Detachable keyboard support"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 10,
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/hDNQ7mh/Asus-ROG-Zephyrus-G14-2-2.webp",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "Portable power meets high performance with the ASUS ROG Zephyrus G14 gaming laptop.",
+    "specification": [
+      "14-inch WQHD display with 120Hz refresh rate",
+      "AMD Ryzen 9 processor",
+      "NVIDIA GeForce RTX 4060",
+      "16GB RAM, 1TB SSD",
+      "Customizable AniMe Matrix LED display on the lid"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 11,
+    "product_title": "JBL Flip 7 Speaker",
+    "product_image": "https://i.ibb.co.com/YWVrnzn/download-4.jpg",
+    "category": "Audio",
+    "price": 129,
+    "description": "Powerful sound in a compact design with JBL Flip 7.",
+    "specification": [
+      "Waterproof design (IPX7)",
+      "12 hours of playtime",
+      "Dual passive radiators",
+      "Bluetooth 5.1 connectivity",
+      "Multiple color options"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 12,
+    "product_title": "Lenovo Legion 7 Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/4ZXhfts/download.jpg",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "A powerhouse designed for pro-level gaming.",
+    "specification": [
+      "16-inch QHD display, 165Hz refresh rate",
+      "AMD Ryzen 9 processor",
+      "NVIDIA GeForce RTX 4080",
+      "32GB RAM, 1TB SSD",
+      "RGB keyboard customization"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 13,
+    "product_title": "Philips Hue Smart Bulb",
+    "product_image": "https://i.ibb.co.com/4KGzXnR/download-1.jpg",
+    "category": "Smart Home",
+    "price": 59,
+    "description": "Customize your home's ambiance with Philips Hue smart bulbs.",
+    "specification": [
+      "16 million colors",
+      "Voice control compatible",
+      "Energy-efficient LED technology",
+      "Bluetooth and Zigbee support",
+      "Easy app setup"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 14,
+    "product_title": "Canon EOS R6 Mark II",
+    "product_image": "https://i.ibb.co.com/C196kPJ/download-2.jpg",
+    "category": "Cameras",
+    "price": 2499,
+    "description": "Capture breathtaking photos and videos with the Canon EOS R6 Mark II.",
+    "specification": [
+      "24.2MP full-frame sensor",
+      "Up to 12 fps mechanical shutter",
+      "4K60 video recording",
+      "Dual-pixel autofocus",
+      "Weather-sealed body"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 15,
+    "product_title": "Bose QuietComfort Earbuds II",
+    "product_image": "https://i.ibb.co.com/KNcNW1L/download-3.jpg",
+    "category": "Audio",
+    "price": 299,
+    "description": "Immersive sound with noise cancellation from Bose.",
+    "specification": [
+      "CustomTune sound calibration",
+      "Water and sweat resistant",
+      "Up to 6 hours of playtime",
+      "Touch-sensitive controls",
+      "High-fidelity audio"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 16,
+    "product_title": "HP Envy 13 Laptop",
+    "product_image": "https://i.ibb.co.com/8bqzmz9/download-5.jpg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "A stylish, high-performance laptop with the HP Envy 13.",
+    "specification": [
+      "13.3-inch FHD touch display",
+      "Intel Core i7 13th Gen",
+      "16GB RAM, 512GB SSD",
+      "Bang & Olufsen audio",
+      "All-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 17,
+    "product_title": "Roku Streaming Stick 4K",
+    "product_image": "https://i.ibb.co.com/jf7c81C/download-6.jpg",
+    "category": "Smart Home",
+    "price": 49,
+    "description": "Enjoy your favorite streaming content in stunning 4K with Roku.",
+    "specification": [
+      "4K HDR and Dolby Vision support",
+      "Voice search and control",
+      "Private listening with headphones",
+      "Easy setup and remote",
+      "Over 500,000 movies and TV episodes"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 18,
+    "product_title": "DJI Mini 3 Pro Drone",
+    "product_image": "https://i.ibb.co.com/tDnNhXK/download-7.jpg",
+    "category": "Cameras",
+    "price": 799,
+    "description": "Capture stunning aerial footage with the DJI Mini 3 Pro.",
+    "specification": [
+      "4K HDR video",
+      "Obstacle avoidance sensors",
+      "Extended flight time of up to 34 minutes",
+      "Lightweight and compact",
+      "Advanced tracking features"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 19,
+    "product_title": "Nest Thermostat (4th Gen)",
+    "product_image": "https://i.ibb.co.com/3cqrZ2Z/images.jpg",
+    "category": "Smart Home",
+    "price": 129,
+    "description": "Save energy and control your home's temperature with ease.",
+    "specification": [
+      "Programmable thermostat",
+      "Remote control via app",
+      "Energy-saving features",
+      "Voice control compatibility",
+      "Frosted display design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 20,
+    "product_title": "Razer Kraken V3 Gaming Headset",
+    "product_image": "https://i.ibb.co.com/kJXZctg/download-8.jpg",
+    "category": "Audio",
+    "price": 99,
+    "description": "Immersive gaming audio with the Razer Kraken V3.",
+    "specification": [
+      "TriForce titanium 50mm drivers",
+      "THX spatial audio",
+      "Hybrid fabric and leatherette ear cushions",
+      "Detachable HyperClear cardioid mic",
+      "Chroma RGB lighting"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+  
+]
