@@ -48,8 +48,8 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <MdOutlineShoppingCart />
-          <CiHeart />
+          <MdOutlineShoppingCart size={30} />
+          <CiHeart  size={30}/>
         </div>
       </div>
     </div>
