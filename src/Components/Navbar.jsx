@@ -32,6 +32,7 @@ const Navbar = () => {
               <NavLink to="/">Home</NavLink>
               <NavLink to="/statistics">Statistics</NavLink>
               <NavLink to="/dashboard">Dashboard</NavLink>
+              <NavLink to="/about">About</NavLink>
 
             </ul>
           </div>
@@ -41,9 +42,10 @@ const Navbar = () => {
 
           <ul className="menu menu-horizontal px-4 gap-6">
 
-            <NavLink to="/">Home</NavLink>
-            <NavLink to="/statistics">Statistics</NavLink>
-            <NavLink to="/dashboard">Dashboard</NavLink>
+            <NavLink to="/" className={({ isActive }) => isActive ? "bg-blue-500 text-white font-bold px-4 py-2 rounded" : " text-gray-700 "}>Home</NavLink>
+            <NavLink to="/statistics" className={({ isActive }) => isActive ? "bg-blue-500 text-white font-bold px-4 py-2 rounded" : " text-gray-700 "}>Statistics</NavLink>
+            <NavLink to="/dashboard" className={({ isActive }) => isActive ? "bg-blue-500 text-white font-bold px-4 py-2 rounded" : " text-gray-700 "}>Dashboard</NavLink>
+            <NavLink to="/about" className={({ isActive }) => isActive ? "bg-blue-500 text-white font-bold px-4 py-2 rounded" : " text-gray-700 "}>About</NavLink>
 
           </ul>
         </div>

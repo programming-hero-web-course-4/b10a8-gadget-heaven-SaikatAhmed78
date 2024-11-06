@@ -36,7 +36,7 @@ const Details = () => {
     
 
 
-    const { product_title, product_image, category, price, description, specification, availability, rating } = product || {};
+    const { product_title, product_image, price, description, specification, availability, rating } = product || {};
 
     return (
         <div className=''>
