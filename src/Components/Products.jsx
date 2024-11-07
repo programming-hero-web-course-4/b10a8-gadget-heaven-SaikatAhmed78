@@ -32,7 +32,7 @@ const Products = () => {
 
         <div className='flex-grow p-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3'>
             {
-                product.map(data => <ProductCard key={data.product_id} data={data}></ProductCard>)
+                product.length > 0 ? product.map(data => <ProductCard key={data.product_id} data={data}></ProductCard>) : <h3 className='text-3xl col-span-3 font-bold text-red-700 text-center'>No Product Available</h3>
             }
         </div>
     );

@@ -1,11 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 const Categories = ({ categories }) => {
+  
+    
+
 
 
     return (
         <div className=' w-64 p-4'>
+
+        
             <ul className='space-y-3'>
                 {
                     categories.map(category => (
@@ -26,6 +31,9 @@ const Categories = ({ categories }) => {
                     ))
                 }
             </ul>
+        
+
+           
         </div>
     );
 };

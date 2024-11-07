@@ -1,11 +1,14 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import products from '../../public/products.json';
+import { Helmet } from 'react-helmet-async';
 
 const Statistics = () => {
     return (
 
         <div>
-
+             <Helmet>
+                <title>Statistics | Gadget Haven</title>
+            </Helmet>
             <div className='bg-[#9538e2] h-[200px] py-6 rounded-lg container mx-auto'>
             <div className='max-w-7xl mx-auto px-4 text-white text-center'>
                 <h2 className='mb-5 font-bold text-2xl text-white'>Product Statistics</h2>

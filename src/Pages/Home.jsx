@@ -2,6 +2,7 @@ import React from 'react';
 import Banner from '../Components/Banner';
 import { Outlet, useLoaderData } from 'react-router-dom';
 import Categories from '../Components/Categories';
+import { Helmet } from 'react-helmet-async';
 
 const Home = () => {
 
@@ -9,6 +10,9 @@ const Home = () => {
 
     return (
         <div >
+             <Helmet>
+                <title>Gadget | Gadget Haven</title>
+            </Helmet>
             <Banner></Banner>
 
             <h3 className='mt-64 text-center text-3xl font-bold text-[#9538e2]'>Explore Cutting-Edge Gadgets</h3>

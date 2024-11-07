@@ -16,6 +16,7 @@ const Wishlist = () => {
 
     return (
         <div>
+            <h1 className='text-2xl font-bold mt-10 pl-5'>Wishlist</h1>
             <div>
                {
                 wislist.map((data, idx) => <WishlistCard key={idx} data={data}></WishlistCard>)

@@ -1,3 +1,4 @@
+import { toast } from "react-toastify";
 
 
 const productIemget = (itemName) => {
@@ -18,9 +19,14 @@ const setProductItem = (itemName, product) => {
     if (!findingItem) {
         storedItem.push(product);
         localStorage.setItem(itemName, JSON.stringify(storedItem));
-        alert('Success');
+        toast.success('Product Successfully Added to Cart!', {
+           position: "top-center",
+           autoClose: 1000,
+        });
     } else {
-        alert('Product Already Added to Cart');
+        toast.error(`${itemName === 'cart' ? 'Product Already Added to Cart' : 'Product Already Added to Wishlist'}`, {
+            position: 'top-center'
+        });
     }
 };
 
@@ -30,5 +36,8 @@ const removeItem = (itemName, product) => {
 
     localStorage.setItem(itemName, JSON.stringify(filteringItem));
 };
+
+
+
 
 export { productIemget, setProductItem, removeItem };
