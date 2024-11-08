@@ -8,7 +8,7 @@ Welcome to Gadget Heaven! This project is a modern e-commerce website for tech g
 
 ## Requirement Document
 
-[Requirement Document Link](c:\Projects\Github-Resources\B10-A8-gadget-heaven\Batch-10_Assignment-08.pdf)
+[Requirement Document Link](https://yellow-nicoline-84.tiiny.site/)
 
 ## React Fundamentals Used
 
